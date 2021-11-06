@@ -1,0 +1,10 @@
+#### ENERGI Requirements ###
+torch
+Pillow
+numpy
+pyyaml
+IPython
+torchsummary
+tensorboard
+seaborn
+matplotlib

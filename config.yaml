@@ -1,0 +1,17 @@
+images:
+  width: 1486
+  height: 862
+  base_path: 'images/'
+  training_split: 4
+  validation_split: 2
+training:
+  learning_rate: .00001
+  epochs: 100
+  trainings_dir: 'trainings/'
+  batch_size: 4
+tensorboard:
+  subdir: 'logs/'
+target_classes: [ 'normal', 'long_qt', 'afib', 'vfib' ]
+csv_target_class_column: 'diagnosis'
+csv_input_columns: [ 'gender', 'ethnicity', 'bmi', 'age' ]
+csv_ecg_image_column: 'ecg_image'

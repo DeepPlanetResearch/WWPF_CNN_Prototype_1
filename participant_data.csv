@@ -1,0 +1,8 @@
+﻿ecg_image,gender,ethnicity,bmi,age,diagnosis
+ecg_1.png,M,caucasion,12.1,14,normal
+ecg_2.png,M,african_american,8.4,17,long_qt
+ecg_3.png,F,asian,3,12,arrhythmia
+ecg_4.png,F,hispanic,21,11,cardiomyopathy
+ecg_5.png,M,pacific_islander,22.4,15,unstable_angina
+ecg_6.png,F,native_american,8.4,17,afib
+ecg_7.png,F,other,27.1,12,cardiomyopathy
